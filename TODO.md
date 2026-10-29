@@ -1,4 +1,4 @@
-# TODO — Upcoming Features
+# TODO — Upcoming Features With V4.0
 
 ## 1. Embed PLINK 2
 - [ ] Bundle `PLINK 2` (`plink2.exe`) with the application.
